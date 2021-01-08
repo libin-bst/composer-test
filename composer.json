@@ -1,6 +1,6 @@
 {
     "name":"libin/composer-test",
     "require": {
-        "monolog/monolog": "1.2.1",
+        "monolog/monolog": "1.2.1"
     }
 }
