@@ -1,6 +1,14 @@
 {
     "name":"libin/composer-test",
+    "description":"composer test",
     "require": {
         "monolog/monolog": "1.2.1"
-    }
+    },
+    "authors": [
+        {
+            "name": "libin",
+            "email": "1724827556@qq.com"
+        }
+    ],
+    "license": "MIT"
 }
